@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=dark&text=Hello%20There%20👋&animation=twinkling&fontColor=FFFFFF">
 </p>
+<h1 align="center">
+  Engineer.
+</h1>
+
 
 <!--
 **spacebiz24/spacebiz24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
-I am Siddhaanth Iyer, you can call me Sid or Iyer!
 
 ___
 With :heart:
