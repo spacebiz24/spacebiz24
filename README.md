@@ -6,8 +6,9 @@ ___
 <h3 align="center">
   <b>I'm Siddhaanth, an Engineer, Period. <img src="http://emojis.slackmojis.com/emojis/images/1450319450/114/empire.png" width=30></b>
 </h3>
-I genuinely enjoy working on the entire hardware stack — from RTL and micro-architecture, to embedded firmware and PCB design — especially for things that move, fly, or swim.
-If it has sensors, clocks, power rails, and is as difficult to build as Anakin's Podracer on Tatooine, I probably want to build it.
+
+I genuinely enjoy working across the entire hardware stack, from RTL and microarchitecture to embedded firmware and PCB design, especially for things that move, fly, or swim.
+If it has sensors, clocks, power rails, and is as difficult to build as [Anakin's Podracer](https://starwars.fandom.com/wiki/Anakin_Skywalker%27s_Podracer) on [Tatooine](https://starwars.fandom.com/wiki/Tatooine), I probably want to build it.
 
 <p align="center">
   <img src="https://reactiongifs.me/cdn-cgi/imagedelivery/S36QsAbHn6yI9seDZ7V8aA/9fa5f0cc-3e44-4dcf-00e9-31f07138b400/w=800" width=300 title="Anakin Podracing Scene from SW Ep 1">
