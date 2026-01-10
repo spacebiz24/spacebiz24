@@ -3,42 +3,46 @@
 </p>
 
 ___
-
-<p align="left">
-<b>I'm Siddhaanth, an Engineer, Period.</b> <img src="http://emojis.slackmojis.com/emojis/images/1450319450/114/empire.png" width=30>
-</p>
-
+<h3 align="center">
+  <b>I'm Siddhaanth, an Engineer, Period. <img src="http://emojis.slackmojis.com/emojis/images/1450319450/114/empire.png" width=30></b>
+</h3>
 I genuinely enjoy working on the entire hardware stack — from RTL and micro-architecture, to embedded firmware and PCB design — especially for things that move, fly, or swim.
 If it has sensors, clocks, power rails, and is as difficult to build as Anakin's Podracer on Tatooine, I probably want to build it.
 
 <p align="center">
-  <img src="https://reactiongifs.me/cdn-cgi/imagedelivery/S36QsAbHn6yI9seDZ7V8aA/9fa5f0cc-3e44-4dcf-00e9-31f07138b400/w=800" width=300>
+  <img src="https://reactiongifs.me/cdn-cgi/imagedelivery/S36QsAbHn6yI9seDZ7V8aA/9fa5f0cc-3e44-4dcf-00e9-31f07138b400/w=800" width=300 title="Anakin Podracing Scene from SW Ep 1">
 </p>
 
 ___
-### Skills that I have learnt as a Padawan 🛠️
+### Skills Learnt as a Padawan 🛠️
 
 <p>
-  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_verilog.svg" width=41 alt="Verilog">
-  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_systemverilog.svg" width=39 alt="SystemVerilog">
+  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_verilog.svg" width=40 alt="Verilog" title="Verilog">
+  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_systemverilog.svg" width=40 alt="SystemVerilog" title="SystemVerilog">
+  <br>
+  <img src="https://www.svgrepo.com/show/373445/assembly.svg" width=40 alt="Assembly" title="Assembly">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width=40 alt="C" title="C">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png" width=40 alt="C++" title="C++">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width=40 alt="Python" title="Python">
+  <img src="https://github.com/Eloquencere/Eloquencere/blob/main/Icons/bash-icon.svg" width=40 alt="Bash" title="Bash">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width=40 alt="HTML5"  title="HTML5">
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width=40 alt="CSS3" title="CSS3">
+  <br>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width=40 alt="Git" title="Git">
+  <img src="https://www.freeiconspng.com/uploads/github-icon-9.png" width=40 alt="GitHub" title="GitHub">
+  <br>
+  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_arduino.svg" width=40 alt="Arduino" title="Arduino">
+  <img src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png" width=40 alt="Raspberry Pi" title="Raspberry Pi">
+  <img src="https://avatars.githubusercontent.com/u/3374914?s=280&v=4" width=40 alt="KiCAD" title="KiCAD">
+  <img src="https://images.seeklogo.com/logo-png/48/2/autodesk-fusion-360-logo-png_seeklogo-482400.png" width=40 alt="Autodesk Fusion 360" title="Autodesk Fusion 360">
+  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_matlab.svg" width=40 alt="MATLAB" title="MATLAB">
   
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width=36 alt="C">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width=36 alt="C++">
-  
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width=35 alt="Python">
-  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_matlab.svg" width=37 alt="MATLAB">
-  <img src="https://github.com/Eloquencere/Eloquencere/blob/main/Icons/bash-icon.svg" width=36 alt="Bash">
-
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width=36 alt="TypeScript">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width=36 alt="HTML5">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width=36 alt="CSS3">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width=36 alt="MySQL">
 </p>
 
 ___
 ### Reach out to me in the Force 🛰️
 <p>
-  <a href="https://www.linkedin.com/in/siddhaanth-s-iyer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width=32 height=32 alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/siddhaanth-s-iyer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width=32 height=32 alt="LinkedIn" title="LinkedIn"></a>
 </p>
 
 ___
