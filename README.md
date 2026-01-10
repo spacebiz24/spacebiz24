@@ -25,6 +25,8 @@ ___
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png" width=40 alt="C++" title="C++">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width=40 alt="Python" title="Python">
   <img src="https://github.com/Eloquencere/Eloquencere/blob/main/Icons/bash-icon.svg" width=40 alt="Bash" title="Bash">
+  <img src="https://files.raycast.com/plponr5sapzs0hcccw4i4whh1nuo" width=40 alt="LaTeX" title="LaTeX">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_markdown.svg" width=40 alt="Markdown" title="Markdown">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width=40 alt="HTML5"  title="HTML5">
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width=40 alt="CSS3" title="CSS3">
   <br>
@@ -33,6 +35,7 @@ ___
   <br>
   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_arduino.svg" width=40 alt="Arduino" title="Arduino">
   <img src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png" width=40 alt="Raspberry Pi" title="Raspberry Pi">
+  <img src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png" width=40 alt="PlatformIO" title="PlatformIO">
   <img src="https://avatars.githubusercontent.com/u/3374914?s=280&v=4" width=40 alt="KiCAD" title="KiCAD">
   <img src="https://images.seeklogo.com/logo-png/48/2/autodesk-fusion-360-logo-png_seeklogo-482400.png" width=40 alt="Autodesk Fusion 360" title="Autodesk Fusion 360">
   <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_matlab.svg" width=40 alt="MATLAB" title="MATLAB">
