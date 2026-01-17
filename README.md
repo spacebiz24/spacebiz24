@@ -25,7 +25,7 @@ ___
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width=40 alt="C" title="C">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png" width=40 alt="C++" title="C++">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width=40 alt="Python" title="Python">
-  <img src="https://github.com/Eloquencere/Eloquencere/blob/main/Icons/bash-icon.svg" width=40 alt="Bash" title="Bash">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Bash_Logo_White.svg" width=40 alt="Bash" title="Bash">
   <img src="https://files.raycast.com/plponr5sapzs0hcccw4i4whh1nuo" width=40 alt="LaTeX" title="LaTeX">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_markdown.svg" width=40 alt="Markdown" title="Markdown">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width=40 alt="HTML5"  title="HTML5">
