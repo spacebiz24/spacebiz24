@@ -4,7 +4,7 @@
 
 ___
 <h3 align="center">
-  <b>I'm Siddhaanth, an Engineer, Period. <img src="http://emojis.slackmojis.com/emojis/images/1450319450/114/empire.png" width=30></b>
+  <b>I'm Siddhaanth, an Engineer, Period. <img src="http://emojis.slackmojis.com/emojis/images/1450319450/114/empire.png" width=30 alt="Imperial Crest" title="Imperial Crest"></b>
 </h3>
 
 I genuinely enjoy working across the entire hardware stack, from RTL and microarchitecture to embedded firmware and PCB design, especially for things that move, fly, or swim.
@@ -53,8 +53,7 @@ ___
 Made with :heart: by [Siddhaanth Iyer](https://github.com/spacebiz24) and
 
 <b>May the Force be With You</b>
-<img src="https://static.wikia.nocookie.net/starwars/images/7/71/Redstarbird.svg/revision/latest?cb=20080228205026" width=20>
-
+<img src="https://static.wikia.nocookie.net/starwars/images/7/71/Redstarbird.svg/revision/latest?cb=20080228205026" width=20 alt="Alliance Crest" title="Alliance Crest">
 
 <!--
 **spacebiz24/spacebiz24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
