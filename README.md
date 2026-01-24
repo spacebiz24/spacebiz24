@@ -53,7 +53,7 @@ ___
 Made with :heart: by [Siddhaanth Iyer](https://github.com/spacebiz24) and
 
 <b>May the Force be With You</b>
-<img src="https://static.wikia.nocookie.net/starwars/images/7/71/Redstarbird.svg/revision/latest?cb=20080228205026" width=20 alt="Alliance Crest" title="Alliance Crest">
+<img src="https://static.wikia.nocookie.net/starwars/images/7/71/Redstarbird.svg/revision/latest?cb=20080228205026" width=20 alt="Rebel Alliance Crest" title="Alliance Crest">
 
 <!--
 **spacebiz24/spacebiz24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
