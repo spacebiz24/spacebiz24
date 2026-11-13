@@ -21,7 +21,7 @@ ___
   <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_verilog.svg" width=40 alt="Verilog" title="Verilog">
   <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_systemverilog.svg" width=40 alt="SystemVerilog" title="SystemVerilog">
   <br>
-  <img src="https://www.svgrepo.com/show/373445/assembly.svg" width=40 alt="Assembly" title="Assembly">
+  <img src="images/assembly.svg" width=40 alt="Assembly" title="Assembly">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width=40 alt="C" title="C">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png" width=40 alt="C++" title="C++">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width=40 alt="Python" title="Python">
