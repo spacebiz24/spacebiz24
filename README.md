@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&theme=tokyonight&text=Hello%20There%20👋&animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&theme=tokyonight&text=Hello%20There...%20👋&animation=twinkling">
 </p>
 
 ___
@@ -13,6 +13,15 @@ If it has sensors, clocks, power rails, and is as difficult to build as [Anakin'
 <p align="center">
   <img src="https://reactiongifs.me/cdn-cgi/imagedelivery/S36QsAbHn6yI9seDZ7V8aA/9fa5f0cc-3e44-4dcf-00e9-31f07138b400/w=800" width=300 title="Anakin Podracing Scene from SW Ep 1">
 </p>
+
+___
+### The Holocron 🛰️
+
+- 🎓 **MS Computer Engineering** @ North Carolina State University, specializing in **VLSI design & verification** (grad. May 2027)
+- 🧪 Trained as a **GPU Formal Verification** intern @ **NVIDIA**, and a research intern @ **DRDO–DEBEL**
+- 🪪 **BE in Electronics & Communication** from M.S. Ramaiah Institute of Technology · Bengaluru → Raleigh
+- 🌱 Currently learning formal methods, microarchitecture, and everything between RTL and GDS
+- 🤝 Open to collaborations in VLSI, hardware verification, embedded systems, and aerospace electronics
 
 ___
 ### Skills Learnt as a Padawan 🛠️
@@ -42,6 +51,25 @@ ___
   <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_matlab.svg" width=40 alt="MATLAB" title="MATLAB">
   
 </p>
+
+___
+### Mission Archives 🗂️
+
+| Mission | Project | Briefing |
+|---------|---------|----------|
+| 🛰️ **Wayfinder** | Attitude Coprocessor | A **CORDIC & Kalman** based vector/quaternion coprocessor for AHRS attitude math, taping out via **TinyTapeout** |
+| 🦋 **ButterFold** | FFT Butterfly Core | A compact **FFT butterfly / twiddle-factor** core for **Chipathon 2026**, targeting a **GF180** open-source tapeout |
+| 🔧 **FFT RTL-to-GDS** | Synthesis Flow | Hierarchical **RTL-to-GDS** synthesis of an FFT processor on **TSMC 65nm** with Synopsys Design Compiler |
+
+___
+### The Rebel Alliance 🛡️
+
+No pilot wins the war alone. Here are the squadrons I've flown with:
+
+| Squadron | Role | Mission |
+|-----------|------|-------|
+| 🟩 **NVIDIA** | GPU Formal Verification Intern | Proving the unprovable, one assertion at a time |
+| 🛡️ **DRDO–DEBEL** | Research Intern | Defence research during the undergrad years |
 
 ___
 ### Reach out to me in the Force 🛰️
